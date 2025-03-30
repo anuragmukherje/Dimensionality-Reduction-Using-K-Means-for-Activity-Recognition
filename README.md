@@ -1,4 +1,3 @@
-# Dimensionality-Reduction-Using-K-Means-for-Activity-Recognition
 # Machine Learning Project: Dimensionality Reduction Using K-Means for Activity Recognition
 # Improved Activity Recognition with K-Means Clustering
 
