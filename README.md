@@ -61,3 +61,4 @@ Feel free to open an issue or submit a pull request if you would like to contrib
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Author
+[Anurag Mukherjee]
